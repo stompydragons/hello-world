@@ -6,6 +6,6 @@ This is also a chance for me to get familiar with git and GitHub, which is very 
 
 Folder list:
 
-* [00_babysteps](https://github.com/stompydragons/stompy-learns/tree/master/00_babysteps “baby steps folder") - The very first python scripts I ever wrote, including the classic "Hello World".
+* [00_babysteps](https://github.com/stompydragons/stompy-learns/tree/master/00_babysteps "baby steps folder") - The very first python scripts I ever wrote, including the classic "Hello World".
 
 KJ
