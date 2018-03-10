@@ -14,4 +14,6 @@ Folder list:
 
 * [04_DataAnalysisShort](https://github.com/stompydragons/stompy-learns/tree/master/04_DataAnalysisShort "Short Data Analysis course folder") - A short data analysis course I took in February 2018 that made me so angry, I redid the instructors scripts as a Jupyter notebook with pandas DataFrames, which I'd learned in a course last year. Probably only valuable for making me so irritated I went off and did this work!
 
+* [05_DoingDataAnalysis](https://github.com/stompydragons/stompy-learns/tree/master/05_DoingDataAnalysis "In depth data analysis folder") - This was a much longer data analysis course I took from February to mid-March 2018 that took me through the whole process, from getting data, cleansing/munging it, feature engineering, all the way to building my first logistic regression models. It used the Titanic challenge dataset from Kaggle so part of the course also took me through making a submission to the Titanic course. I actually got into the top 47%, which doesn't seem amazing until you remember that I hadn't done any artificial intelligence since university and things have changed a lot since 2004. The notebooks go through everything I was learning and are part notes, part code, far less frustrated than the previous data analysis course.
+
 KJ
